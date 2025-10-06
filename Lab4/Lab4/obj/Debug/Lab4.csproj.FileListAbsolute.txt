@@ -1,0 +1,9 @@
+C:\Users\VanToan123\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\VanToan123\source\repos\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\VanToan123\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\VanToan123\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\VanToan123\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\VanToan123\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\VanToan123\source\repos\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\VanToan123\source\repos\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\VanToan123\source\repos\Lab4\Lab4\obj\Debug\Lab4.pdb

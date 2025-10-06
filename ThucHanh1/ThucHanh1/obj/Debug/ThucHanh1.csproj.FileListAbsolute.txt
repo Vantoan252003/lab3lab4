@@ -1,0 +1,10 @@
+C:\Users\VanToan123\source\repos\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.csproj.AssemblyReference.cache
+C:\Users\VanToan123\source\repos\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.Properties.Resources.resources
+C:\Users\VanToan123\source\repos\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.csproj.GenerateResource.cache
+C:\Users\VanToan123\source\repos\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.csproj.CoreCompileInputs.cache
+C:\Users\VanToan123\source\repos\ThucHanh1\ThucHanh1\bin\Debug\ThucHanh1.exe.config
+C:\Users\VanToan123\source\repos\ThucHanh1\ThucHanh1\bin\Debug\ThucHanh1.exe
+C:\Users\VanToan123\source\repos\ThucHanh1\ThucHanh1\bin\Debug\ThucHanh1.pdb
+C:\Users\VanToan123\source\repos\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.exe
+C:\Users\VanToan123\source\repos\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.pdb
+C:\Users\VanToan123\source\repos\ThucHanh1\ThucHanh1\obj\Debug\QuanAnNhanh.Form1.resources

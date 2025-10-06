@@ -1,0 +1,9 @@
+C:\Users\VanToan123\source\repos\ThucHanh2\ThucHanh2\bin\Debug\ThucHanh2.exe.config
+C:\Users\VanToan123\source\repos\ThucHanh2\ThucHanh2\bin\Debug\ThucHanh2.exe
+C:\Users\VanToan123\source\repos\ThucHanh2\ThucHanh2\bin\Debug\ThucHanh2.pdb
+C:\Users\VanToan123\source\repos\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.csproj.AssemblyReference.cache
+C:\Users\VanToan123\source\repos\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.Properties.Resources.resources
+C:\Users\VanToan123\source\repos\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.csproj.GenerateResource.cache
+C:\Users\VanToan123\source\repos\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.csproj.CoreCompileInputs.cache
+C:\Users\VanToan123\source\repos\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.exe
+C:\Users\VanToan123\source\repos\ThucHanh2\ThucHanh2\obj\Debug\ThucHanh2.pdb

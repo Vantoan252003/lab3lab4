@@ -1,0 +1,10 @@
+C:\Users\VanToan123\source\repos\NguyenVanToan_1150080040\NguyenVanToan_1150080040\bin\Debug\NguyenVanToan_1150080040.exe.config
+C:\Users\VanToan123\source\repos\NguyenVanToan_1150080040\NguyenVanToan_1150080040\bin\Debug\NguyenVanToan_1150080040.exe
+C:\Users\VanToan123\source\repos\NguyenVanToan_1150080040\NguyenVanToan_1150080040\bin\Debug\NguyenVanToan_1150080040.pdb
+C:\Users\VanToan123\source\repos\NguyenVanToan_1150080040\NguyenVanToan_1150080040\obj\Debug\NguyenVanToan_1150080040.csproj.AssemblyReference.cache
+C:\Users\VanToan123\source\repos\NguyenVanToan_1150080040\NguyenVanToan_1150080040\obj\Debug\NguyenVanToan_1150080040.Form1.resources
+C:\Users\VanToan123\source\repos\NguyenVanToan_1150080040\NguyenVanToan_1150080040\obj\Debug\NguyenVanToan_1150080040.Properties.Resources.resources
+C:\Users\VanToan123\source\repos\NguyenVanToan_1150080040\NguyenVanToan_1150080040\obj\Debug\NguyenVanToan_1150080040.csproj.GenerateResource.cache
+C:\Users\VanToan123\source\repos\NguyenVanToan_1150080040\NguyenVanToan_1150080040\obj\Debug\NguyenVanToan_1150080040.csproj.CoreCompileInputs.cache
+C:\Users\VanToan123\source\repos\NguyenVanToan_1150080040\NguyenVanToan_1150080040\obj\Debug\NguyenVanToan_1150080040.exe
+C:\Users\VanToan123\source\repos\NguyenVanToan_1150080040\NguyenVanToan_1150080040\obj\Debug\NguyenVanToan_1150080040.pdb
