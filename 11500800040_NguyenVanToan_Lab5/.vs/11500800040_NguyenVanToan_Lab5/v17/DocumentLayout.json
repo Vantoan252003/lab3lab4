@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|c:\\users\\vantoan123\\source\\repos\\11500800040_nguyenvantoan_lab5\\11500800040_nguyenvantoan_lab5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|solutionrelative:11500800040_nguyenvantoan_lab5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|c:\\users\\vantoan123\\source\\repos\\11500800040_nguyenvantoan_lab5\\11500800040_nguyenvantoan_lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|solutionrelative:11500800040_nguyenvantoan_lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|c:\\users\\vantoan123\\source\\repos\\11500800040_nguyenvantoan_lab5\\11500800040_nguyenvantoan_lab5\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|solutionrelative:11500800040_nguyenvantoan_lab5\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|c:\\users\\vantoan123\\source\\repos\\11500800040_nguyenvantoan_lab5\\11500800040_nguyenvantoan_lab5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|solutionrelative:11500800040_nguyenvantoan_lab5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|c:\\users\\vantoan123\\source\\repos\\11500800040_nguyenvantoan_lab5\\11500800040_nguyenvantoan_lab5\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|solutionrelative:11500800040_nguyenvantoan_lab5\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_VANTOAN123_SOURCE_REPOS_11500800040_NGUYENVANTOAN_LAB5_11500800040_NGUYENVANTOAN_LAB5_LAB5DB.MDF/True/SqlTable/dbo.Lop.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_VANTOAN123_SOURCE_REPOS_11500800040_NGUYENVANTOAN_LAB5_11500800040_NGUYENVANTOAN_LAB5_LAB5DB.MDF/True/SqlTable/dbo.SinhVien.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VanToan123\\AppData\\Local\\Temp\\zatej0dv..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|c:\\users\\vantoan123\\source\\repos\\11500800040_nguyenvantoan_lab5\\11500800040_nguyenvantoan_lab5\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|solutionrelative:11500800040_nguyenvantoan_lab5\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|c:\\users\\vantoan123\\source\\repos\\11500800040_nguyenvantoan_lab5\\11500800040_nguyenvantoan_lab5\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|solutionrelative:11500800040_nguyenvantoan_lab5\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|c:\\users\\vantoan123\\source\\repos\\11500800040_nguyenvantoan_lab5\\11500800040_nguyenvantoan_lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|solutionrelative:11500800040_nguyenvantoan_lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VanToan123\\AppData\\Local\\Temp\\hluatpuz..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VanToan123\\AppData\\Local\\Temp\\noofgmlf..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VanToan123\\AppData\\Local\\Temp\\43iptdck..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|c:\\users\\vantoan123\\source\\repos\\11500800040_nguyenvantoan_lab5\\11500800040_nguyenvantoan_lab5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|solutionrelative:11500800040_nguyenvantoan_lab5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|c:\\users\\vantoan123\\source\\repos\\11500800040_nguyenvantoan_lab5\\11500800040_nguyenvantoan_lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3DA2113-4880-4A50-8B3E-AB39E5347D9E}|11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5.csproj|solutionrelative:11500800040_nguyenvantoan_lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VanToan123\\AppData\\Local\\Temp\\noofgmlf..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VanToan123\\AppData\\Local\\Temp\\noofgmlf..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VanToan123\\AppData\\Local\\Temp\\43iptdck..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VanToan123\\AppData\\Local\\Temp\\hluatpuz..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VanToan123\\AppData\\Local\\Temp\\hluatpuz..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VanToan123\\AppData\\Local\\Temp\\zatej0dv..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "11500800040_NguyenVanToan_Lab5\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form2.Designer.cs",
+              "RelativeToolTip": "11500800040_NguyenVanToan_Lab5\\Form2.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwCYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T01:33:43.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form2.cs",
+              "RelativeDocumentMoniker": "11500800040_NguyenVanToan_Lab5\\Form2.cs",
+              "ToolTip": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form2.cs",
+              "RelativeToolTip": "11500800040_NguyenVanToan_Lab5\\Form2.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAiwIEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T01:31:30.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form2.cs",
+              "RelativeDocumentMoniker": "11500800040_NguyenVanToan_Lab5\\Form2.cs",
+              "ToolTip": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form2.cs [Design]",
+              "RelativeToolTip": "11500800040_NguyenVanToan_Lab5\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T01:31:26.606Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLQuery4.sql ",
+              "DocumentMoniker": "C:\\Users\\VanToan123\\AppData\\Local\\Temp\\zatej0dv..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\zatej0dv..sql",
+              "ToolTip": "SQLQuery4.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-13T01:28:41.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "11500800040_NguyenVanToan_Lab5\\Program.cs",
+              "ToolTip": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Program.cs",
+              "RelativeToolTip": "11500800040_NguyenVanToan_Lab5\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T00:38:40.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "11500800040_NguyenVanToan_Lab5\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form3.Designer.cs",
+              "RelativeToolTip": "11500800040_NguyenVanToan_Lab5\\Form3.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwCYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T01:20:40.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form3.cs",
+              "RelativeDocumentMoniker": "11500800040_NguyenVanToan_Lab5\\Form3.cs",
+              "ToolTip": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form3.cs",
+              "RelativeToolTip": "11500800040_NguyenVanToan_Lab5\\Form3.cs",
+              "ViewState": "AQIAACoBAAAAAAAAAAAWwGABAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T01:20:35.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Lop [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_VANTOAN123_SOURCE_REPOS_11500800040_NGUYENVANTOAN_LAB5_11500800040_NGUYENVANTOAN_LAB5_LAB5DB.MDF/True/SqlTable/dbo.Lop.sql",
+              "ToolTip": "dbo.Lop [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-13T01:00:42.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.SinhVien [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_VANTOAN123_SOURCE_REPOS_11500800040_NGUYENVANTOAN_LAB5_11500800040_NGUYENVANTOAN_LAB5_LAB5DB.MDF/True/SqlTable/dbo.SinhVien.sql",
+              "ToolTip": "dbo.SinhVien [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-13T01:03:47.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form3.cs",
+              "RelativeDocumentMoniker": "11500800040_NguyenVanToan_Lab5\\Form3.cs",
+              "ToolTip": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form3.cs [Design]",
+              "RelativeToolTip": "11500800040_NguyenVanToan_Lab5\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T01:20:31.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SQLQuery3.sql ",
+              "DocumentMoniker": "C:\\Users\\VanToan123\\AppData\\Local\\Temp\\hluatpuz..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\hluatpuz..sql",
+              "ToolTip": "SQLQuery3.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-13T00:58:03.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\VanToan123\\AppData\\Local\\Temp\\noofgmlf..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\noofgmlf..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-13T00:39:37.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form1.cs",
+              "RelativeDocumentMoniker": "11500800040_NguyenVanToan_Lab5\\Form1.cs",
+              "ToolTip": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form1.cs",
+              "RelativeToolTip": "11500800040_NguyenVanToan_Lab5\\Form1.cs",
+              "ViewState": "AQIAAGwBAAAAAAAAAAAuwIABAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T00:36:47.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\VanToan123\\AppData\\Local\\Temp\\43iptdck..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\43iptdck..sql",
+              "ToolTip": "SQLQuery2.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-13T00:41:03.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "11500800040_NguyenVanToan_Lab5\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form1.Designer.cs",
+              "RelativeToolTip": "11500800040_NguyenVanToan_Lab5\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T00:38:01.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form1.cs",
+              "RelativeDocumentMoniker": "11500800040_NguyenVanToan_Lab5\\Form1.cs",
+              "ToolTip": "C:\\Users\\VanToan123\\source\\repos\\11500800040_NguyenVanToan_Lab5\\11500800040_NguyenVanToan_Lab5\\Form1.cs [Design]",
+              "RelativeToolTip": "11500800040_NguyenVanToan_Lab5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T00:31:58.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
