@@ -1,0 +1,11 @@
+C:\Users\VanToan123\source\repos\1150080040_NguyenVanToan_Lab6\1150080040_NguyenVanToan_Lab6\obj\Debug\1150080040_NguyenVanToan_Lab6.csproj.AssemblyReference.cache
+C:\Users\VanToan123\source\repos\1150080040_NguyenVanToan_Lab6\1150080040_NguyenVanToan_Lab6\obj\Debug\_1150080040_NguyenVanToan_Lab6.Properties.Resources.resources
+C:\Users\VanToan123\source\repos\1150080040_NguyenVanToan_Lab6\1150080040_NguyenVanToan_Lab6\obj\Debug\1150080040_NguyenVanToan_Lab6.csproj.GenerateResource.cache
+C:\Users\VanToan123\source\repos\1150080040_NguyenVanToan_Lab6\1150080040_NguyenVanToan_Lab6\obj\Debug\1150080040_NguyenVanToan_Lab6.csproj.CoreCompileInputs.cache
+C:\Users\VanToan123\source\repos\1150080040_NguyenVanToan_Lab6\1150080040_NguyenVanToan_Lab6\bin\Debug\1150080040_NguyenVanToan_Lab6.exe.config
+C:\Users\VanToan123\source\repos\1150080040_NguyenVanToan_Lab6\1150080040_NguyenVanToan_Lab6\bin\Debug\1150080040_NguyenVanToan_Lab6.exe
+C:\Users\VanToan123\source\repos\1150080040_NguyenVanToan_Lab6\1150080040_NguyenVanToan_Lab6\bin\Debug\1150080040_NguyenVanToan_Lab6.pdb
+C:\Users\VanToan123\source\repos\1150080040_NguyenVanToan_Lab6\1150080040_NguyenVanToan_Lab6\obj\Debug\1150080040_NguyenVanToan_Lab6.exe
+C:\Users\VanToan123\source\repos\1150080040_NguyenVanToan_Lab6\1150080040_NguyenVanToan_Lab6\obj\Debug\1150080040_NguyenVanToan_Lab6.pdb
+C:\Users\VanToan123\source\repos\1150080040_NguyenVanToan_Lab6\1150080040_NguyenVanToan_Lab6\bin\Debug\QuanLyBanSach.mdf
+C:\Users\VanToan123\source\repos\1150080040_NguyenVanToan_Lab6\1150080040_NguyenVanToan_Lab6\bin\Debug\QuanLyBanSach_log.ldf
